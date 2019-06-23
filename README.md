@@ -6,6 +6,6 @@ Data Table:
 <br/>
 ![Test Image](1.png)
 
-Feature Classification:
+Feature Categories:
 <br/>
 ![Test Image - 2](2.png)
